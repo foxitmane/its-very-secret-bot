@@ -1,0 +1,20 @@
+{
+	"Ping": {
+		"name": "Ping Command",
+		"type": "Command",
+		"price": "100",
+		"desc": "Buying this gives you use the ping command"
+	},
+	"Helper": {
+		"name": "Helper Role",
+		"type": "Role",
+		"price": "250",
+		"desc": "Helper Role"
+	},
+	"Helper1": {
+		"name": "Helper Role1",
+		"type": "Role1",
+		"price": "2501",
+		"desc": "Helper Role1"
+	} 
+}
